@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/robofriends-redux/static/css/main.184ef322.chunk.css",
-    "main.js": "/robofriends-redux/static/js/main.61c56045.chunk.js",
-    "main.js.map": "/robofriends-redux/static/js/main.61c56045.chunk.js.map",
+    "main.css": "/robofriends-redux/static/css/main.4147a94e.chunk.css",
+    "main.js": "/robofriends-redux/static/js/main.3666bd60.chunk.js",
+    "main.js.map": "/robofriends-redux/static/js/main.3666bd60.chunk.js.map",
     "runtime-main.js": "/robofriends-redux/static/js/runtime-main.afd07b7c.js",
     "runtime-main.js.map": "/robofriends-redux/static/js/runtime-main.afd07b7c.js.map",
     "static/css/2.eb45ad44.chunk.css": "/robofriends-redux/static/css/2.eb45ad44.chunk.css",
     "static/js/2.86a89e35.chunk.js": "/robofriends-redux/static/js/2.86a89e35.chunk.js",
     "static/js/2.86a89e35.chunk.js.map": "/robofriends-redux/static/js/2.86a89e35.chunk.js.map",
     "index.html": "/robofriends-redux/index.html",
-    "precache-manifest.c747ebae706cc2ada245a23a34ca0a2f.js": "/robofriends-redux/precache-manifest.c747ebae706cc2ada245a23a34ca0a2f.js",
+    "precache-manifest.250833687ff6209047b38df271037d3a.js": "/robofriends-redux/precache-manifest.250833687ff6209047b38df271037d3a.js",
     "service-worker.js": "/robofriends-redux/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/robofriends-redux/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.184ef322.chunk.css.map": "/robofriends-redux/static/css/main.184ef322.chunk.css.map",
+    "static/css/main.4147a94e.chunk.css.map": "/robofriends-redux/static/css/main.4147a94e.chunk.css.map",
     "static/js/2.86a89e35.chunk.js.LICENSE.txt": "/robofriends-redux/static/js/2.86a89e35.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.afd07b7c.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.86a89e35.chunk.js",
-    "static/css/main.184ef322.chunk.css",
-    "static/js/main.61c56045.chunk.js"
+    "static/css/main.4147a94e.chunk.css",
+    "static/js/main.3666bd60.chunk.js"
   ]
 }
